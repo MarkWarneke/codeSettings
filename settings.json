@@ -1,0 +1,10 @@
+
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Cobalt2",
+    "editor.minimap.enabled": false,
+    "team.showWelcomeMessage": false,
+    "editor.multiCursorModifier": "alt",
+    "window.zoomLevel": 1 
+}
